@@ -9,8 +9,6 @@ body{
     margin: 0;
 }
 
-
-
 .login {
     position: absolute;
     top: 60px; 
@@ -55,6 +53,7 @@ li a {
 
 li a:hover {
     color: #AF630C;
+    text-decoration: none;
 }
 
 .carousel{

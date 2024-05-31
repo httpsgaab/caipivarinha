@@ -11,9 +11,18 @@ body{
 
 .login {
     position: absolute;
-    top: 55px; 
+    top: 60px; 
+    left: 95%;
     right: 100px; 
     width: 70px;
+}
+
+.peca{
+    position: absolute;
+    top: -30px;
+    left: 79%; 
+    right: 300px; 
+    width: 260px;
 }
 
 .logo {

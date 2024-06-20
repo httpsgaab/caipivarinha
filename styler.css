@@ -8,10 +8,22 @@ body{
     font-family: 'Open Sans', sans-serif;
     margin: 0;
 }
+.caip-let{
+    width: 500px;
+    margin-top: 5px;
+}
+
+.carrinho{
+    position: absolute;
+    top: 25px;
+    left: 91%;
+    right: 80px; 
+    width: 50px;
+}
 
 .login {
     position: absolute;
-    top: 60px; 
+    top: 15px; 
     left: 95%;
     right: 100px; 
     width: 70px;
@@ -19,15 +31,15 @@ body{
 
 .peca{
     position: absolute;
-    top: -30px;
-    left: 79%; 
+    top: 0px;
+    left: 82%; 
     right: 300px; 
     width: 260px;
 }
 
 .logo {
     position: absolute;
-    top: 20px; 
+    top: 50px; 
     left: 25px;
     height: 200px;
     width: 200px;
@@ -37,7 +49,7 @@ nav {
     text-align: center;
     padding: 0%;
     height: 0%;
-    margin-top: 50px;
+    margin-top: -25px;
 }
 ul {
     list-style-type: none;
@@ -67,8 +79,8 @@ li a:hover {
 
 .carousel{
     /* position: absolute; */
-    height: 1000px;
-    width: 1000px;
+    height: 80%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 5%;
